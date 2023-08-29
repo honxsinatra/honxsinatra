@@ -8,7 +8,7 @@ I enjoy learning about the latest advancements in the field and applying them to
 - 🔭 I’m currently working as a freelancer.
 - 👯 I’m looking to collaborate on open-source blockchain projects and smart contract development.
 - 💬 Ask me about Solidity, smart contracts, decentralized applications (DApps), or anything related to blockchain!
-- 📫 How to reach me: [Email](mailto:josephhongoa2020@gmail.com), [LinkedIn](https://www.linkedin.com/in/hongoa-hongoa-355538284/), [Twitter](https://twitter.com/HongoaHongoa), [upwork](https://www.upwork.com/freelancers/09a03de9)
+- 📫 How to reach me: [Email](mailto:josephhongoa2020@gmail.com), [LinkedIn](https://www.linkedin.com/in/hongoa-hongoa-355538284/), [Twitter](https://twitter.com/HongoaHongoa), [upwork](https://www.upwork.com/ab/profiles/search/details/~01745272ac1d562539/profile?q=hongoa&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221693301297302%22%7D%5D&_navType=slider&pageTitle=Profile)
 
 ## Tech Stack
 - Programming Languages: Solidity, JavaScript
