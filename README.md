@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Hongoa Hongoa.
 
 ## About Me
-Welcome to [My portfolio](hongoa-portfolio.vercel.app/) ! I am a passionate developer with a strong background in both front-end web development and blockchain technology, specifically Solidity smart contract development. This README provides an overview of my skills, projects, and how to contact me.
+Welcome to [My portfolio](https://hongoa-portfolio.vercel.app/) ! I am a passionate developer with a strong background in both front-end web development and blockchain technology, specifically Solidity smart contract development. This README provides an overview of my skills, projects, and how to contact me.
 
 - 🔭 I’m currently working as a freelancer.
 - 👯 I’m looking to collaborate on open-source blockchain projects and smart contract development.
