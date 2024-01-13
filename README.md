@@ -6,7 +6,7 @@ Welcome to [My portfolio](https://hongoa-portfolio.vercel.app/) ! I am a passion
 - 🔭 I’m currently working at [GETCORE GROUP LTD](https://getcoregroup.com/) as Software QA manager.
 - 👯 I’m looking to collaborate on open-source blockchain projects and smart contract development.
 - 💬 Ask me about Front-End development, Solidity, smart contracts, decentralized applications (DApps), or anything related to blockchain and front end development!
-- 📫 How to reach me: [Email](mailto:josephhongoa2020@gmail.com), [LinkedIn](https://www.linkedin.com/in/hongoa-hongoa-355538284/), [Twitter](https://twitter.com/HongoaHongoa), [upwork](https://www.upwork.com/ab/profiles/search/details/~01745272ac1d562539/profile?q=hongoa&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221693301297302%22%7D%5D&_navType=slider&pageTitle=Profile)
+- 📫 How to reach me: [Email](mailto:josephhongoa2020@gmail.com), [LinkedIn](https://www.linkedin.com/in/hongoa-hongoa-355538284/), [Twitter](https://twitter.com/HongoaHongoa)
 
 ## Tech Stack
 - Programming Languages: Solidity, JavaScript, React, Next js, Html, Css, PHP, Laravel, MySQL.
